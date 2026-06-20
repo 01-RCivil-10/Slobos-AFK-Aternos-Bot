@@ -25,6 +25,16 @@
     "anti-afk": {
       "enabled": true,
       "sneak": true
+        },
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 120,
+      "messages": [
+        "/register bot123",
+        "/login bot123",
+        
+      ]
     },
     "chat-messages": {
       "enabled": true,
